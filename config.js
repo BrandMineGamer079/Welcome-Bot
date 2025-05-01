@@ -5,7 +5,7 @@ module.exports = {
   ownerID: ["1365694026115973191", "1052983625425100812"], 
   commandsDir: './commands',  
   embedColor: "00fbff",
-  errorLog: "", 
+  errorLog: "https://discord.com/api/webhooks/1367393065223847998/jlgZmZOd6Io8gTaCK97dEfOJjj64BiQyQfOjgJiibU9GEvZyzX-SO5pbNr9OV7eKahZQ", 
 
 }
 
